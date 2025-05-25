@@ -16,7 +16,22 @@ To write a Python program that accepts a string and removes the character at a s
 
 ## 💻 Program
 Add Code Here
+n=int(input())
+
+def remove(a):
+
+    for i in range(0,len(a)):
+    
+        if(i!=n):
+        
+            print(a[i],end='')
+
 
 ## Output
 
+![440091991-2258529b-4a21-4919-a49f-223312bc4fba](https://github.com/user-attachments/assets/561af94b-e8a7-4381-97ce-896067755ea8)
+
+
 ## Result
+
+Thus the python program is executed successfully
